@@ -61,4 +61,4 @@
 - A `Patient` can be transferred to multiple `Hospitals` through `Transfers`.
 
 
-[Database Schema]/docs/schema.png
+![Database Schema]/docs/schema.png
