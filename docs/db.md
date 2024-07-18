@@ -60,3 +60,5 @@
 - A `Patient` can have multiple `WaitlistEntries`.
 - A `Patient` can be transferred to multiple `Hospitals` through `Transfers`.
 
+
+[Database Schema]/docs/schema.png
